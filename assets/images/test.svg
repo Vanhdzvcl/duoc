@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+  <!-- Ảnh nền -->
+  <image href="adidas.png" x="0" y="0" width="480" height="320" />
+
+  <!-- Các phần tử vẽ -->
+  <g>
+    <ellipse cx="240" cy="220" rx="180" ry="60" fill="#ddd" />
+    <path d="M60,200 C140,120 340,120 420,200 L420,240 L60,240 Z" fill="#bbb" />
+    <circle cx="160" cy="210" r="18" fill="#999" />
+    <circle cx="320" cy="210" r="18" fill="#999" />
+  </g>
+
+  <!-- Chữ -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Arial" fill="#333">
+    ADIDAS
+  </text>
+</svg>
